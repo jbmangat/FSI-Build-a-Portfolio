@@ -1,0 +1,27 @@
+body {
+    background-color: cornflowerblue;
+    font-family:Arial, Helvetica, sans-serif;
+    cursor: crosshair;
+} 
+h1 {
+    background-color: wheat;
+    border-radius: 7px;
+    
+    
+}
+h2 {
+    background-color: wheat;
+    border-radius: 7px;
+    text-align: center;
+}
+img {
+    border-radius: 120px;
+    max-width: 250px;
+    max-height: 250px;
+}
+h3 {
+    background-color: wheat;
+    border-radius: 7px;
+    text-align: center;
+    cursor: progress;
+}
